@@ -1,0 +1,2 @@
+# uwarsama
+disscord kayit botu
